@@ -1,0 +1,6 @@
+1) Java supports single , multiple and hybrid inheritance only.
+
+2) In java a class can have at the most one immediate superclass.
+
+3) Every class declared in java is either directly or indirectly a subclass of a class Object , defined in  Java.lang package.
+
