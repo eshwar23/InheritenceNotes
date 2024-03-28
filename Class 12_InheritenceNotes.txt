@@ -13,7 +13,7 @@
  
  Abstract method/function are those with no statement inside the body of the function.
   
- In an abstracct method a semicoln is used at the end of the function
+ In an abstracct method a semicolon is used at the end of the function
  
  for example :  abstract void display();
  
